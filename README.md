@@ -21,3 +21,7 @@ Funcionalidades do backend
   4. Após conectar ao dashboard, no menu lateral à esquerda na aba "Deployment" clique no item "Database"
   5. No centro da tela, irá aparecer algumas informações sobre o Cluster criado. no Header desse Cluster possui alguns botões ( "connect", "View Monitoring", "Browse Collections"), clique em "Browse Collections"
 
+# Observações
+
+Não será utilizado lombok por questões de instalação
+

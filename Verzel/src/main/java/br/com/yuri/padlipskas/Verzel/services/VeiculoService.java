@@ -33,6 +33,8 @@ public class VeiculoService {
 		veiculoAux.setMarca(veiculo.getMarca());
 		veiculoAux.setModelo(veiculo.getModelo());
 		veiculoAux.setFoto(veiculo.getFoto());
+		veiculoAux.setValor(veiculo.getValor());
+		repo.save(veiculoAux);
 		return veiculoAux;
 	}
 	

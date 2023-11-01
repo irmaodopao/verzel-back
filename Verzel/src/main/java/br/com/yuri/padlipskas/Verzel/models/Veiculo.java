@@ -15,6 +15,8 @@ public class Veiculo {
 
 	private String modelo;
 	
+	private double valor;
+	
 	private String foto;
 
 	public String getId() {
@@ -56,6 +58,15 @@ public class Veiculo {
 	public void setFoto(String foto) {
 		this.foto = foto;
 	}
+
+	public double getValor() {
+		return valor;
+	}
+
+	public void setValor(double valor) {
+		this.valor = valor;
+	}
+	
 	
 	
 

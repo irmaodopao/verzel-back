@@ -2,8 +2,10 @@
 
 Funcionalidades do backend
 
-- API Rest para veículos completa ( CRUD ) ✖️
-- Validação de adm ✖️
+- API Rest para veículos completa ( CRUD ) ✔️
+- Validação de adm ✔️
+- ROLE de ADMIN ✔️
+- Geração do tokenJWT no formato HMAC256 ✔️
   
 
 # Tecnologias
